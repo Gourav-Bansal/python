@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18636e87-95f1-45f2-ae93-2ce1ec8a0e22" name="Default Changelist" comment="" />
+    <list default="true" id="18636e87-95f1-45f2-ae93-2ce1ec8a0e22" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/arnav.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gourav.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gourav.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Practice">
+  <component name="RunManager" selected="Python.Exercise 5">
     <configuration name="Exercise 5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="First Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,10 +149,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise 5" />
         <item itemvalue="Python.Practice" />
         <item itemvalue="Python.Functons." />
         <item itemvalue="Python.Global12" />
-        <item itemvalue="Python.Exercise 5" />
         <item itemvalue="Python.Files" />
       </list>
     </recent_temporary>
@@ -169,7 +175,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -10,9 +10,9 @@ f.close()      """
 
 
    # With block
-with open ("gourav.txt") as f:
-    a = f.readline()
-    print(a)
+# with open ("gourav.txt") as f:
+#     a = f.readline()
+#     print(a)
 # f = open("gourav.txt")
 # print(f.readline())
 
