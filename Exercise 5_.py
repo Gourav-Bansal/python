@@ -85,12 +85,17 @@ def log_() :
             with open("harry-diet") as f:
                 d = f.readline()
                 print(d)
+
 while True :
-    a = int(input("Enter 1 for gourav, 2 for arnav and 3 for harry : "))
+    a = input("Enter 1 for gourav, 2 for arnav and 3 for harry and enter 'q' for exit : ")
+    if a.lower() == 'q':
+        exit()
+
     c = int(input("Enter 1 for log and 2 for entering data : "))
+    a = int(a)
     if c == 1 :
-            log_()
+        log_()
     else:
-            edit_()
+        edit_()
 
 
