@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18636e87-95f1-45f2-ae93-2ce1ec8a0e22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arnav.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise 5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Global12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Global12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arnav-diet" beforeDir="false" afterPath="$PROJECT_DIR$/arnav-diet" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gourav.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gourav.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +27,7 @@
   <component name="ProjectId" id="1fHUjYn8xze2soNcsfYqfmEBinL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercise 5">
+  <component name="RunManager" selected="Python.Exercise 5_">
     <configuration name="Exercise 5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="First Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercise 5_" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="First Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise 5_.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise 5_" />
         <item itemvalue="Python.Exercise 5" />
         <item itemvalue="Python.Practice" />
         <item itemvalue="Python.Functons." />
         <item itemvalue="Python.Global12" />
-        <item itemvalue="Python.Files" />
       </list>
     </recent_temporary>
   </component>
